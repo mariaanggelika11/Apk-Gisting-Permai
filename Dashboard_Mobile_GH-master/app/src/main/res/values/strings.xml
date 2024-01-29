@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dashboard AGRI-ICS for Smart GreenHouse</string>
+    <string name="dashboard">DASHBOARD</string>
+    <string name="time">Time</string>
+    <string name="agri_ics_for_green_house">AGRI-ICS for Green House</string>
+    <string name="time_stamp">Time Stamp</string>
+    <string name="activator">Activator</string>
+    <string name="nutrient_pump">Nutrient Pump</string>
+</resources>
